@@ -11,7 +11,7 @@
 - 📈 Building projects with Power BI, Python, SQL, and Machine Learning
 - 🌱 Currently learning advanced Power BI and improving my Python skills
 - 🎯 Seeking Business Analyst / Data Analyst internships
-
+---
 ## Technical Skills
 
 - Python
@@ -21,7 +21,7 @@
 - Machine Learning
 - Data Visualization
 - Git & GitHub
-
+---
 ## Featured Projects
 
 📊 Power BI Sales Dashboard
@@ -29,16 +29,22 @@
 - Sales analysis by country and hotel
 - Dynamic filters and drill-down reports
   
+---
+
 🤖 Employee Attrition Prediction
 - Neural Network
 - Data preprocessing
 - Feature engineering
 - ROC-AUC evaluation
 
+---
+
 🎬 Movie Sentiment Analysis
 - NLP
 - Machine Learning
 - Recommendation techniques
+
+---
 
 ## Let's Connect
 - LinkedIn: www.linkedin.com/in/neha-kataria-3a7756410
