@@ -28,11 +28,13 @@
 - Interactive KPI dashboard
 - Sales analysis by country and hotel
 - Dynamic filters and drill-down reports
+  
 🤖 Employee Attrition Prediction
 - Neural Network
 - Data preprocessing
 - Feature engineering
 - ROC-AUC evaluation
+
 🎬 Movie Sentiment Analysis
 - NLP
 - Machine Learning
