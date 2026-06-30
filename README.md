@@ -1,7 +1,7 @@
 # Hi there! I'm Neha Kataria
 - 🎓 Business Insights & Analytics student at Humber College
 - 📊 Passionate about Business Intelligence, Data Analytics, and Machine Learning.
----
+
 ## About Me
 - 📍 Based in Ontario, Canada
 - 📚 Currently studying Business Insights & Analytics at Humber College
@@ -9,7 +9,7 @@
 - 📈 Building projects with Power BI, Python, SQL, and Machine Learning
 - 🌱 Currently learning advanced Power BI and improving my Python skills
 - 🎯 Seeking Business Analyst / Data Analyst internships
----
+
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
