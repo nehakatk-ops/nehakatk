@@ -40,5 +40,3 @@
 
 ## Let's Connect
 - LinkedIn: www.linkedin.com/in/neha-kataria-3a7756410
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehakatk&show_icons=true)
